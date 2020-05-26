@@ -7,3 +7,6 @@
 3. Terrier Stop Word list : https://github.com/terrier-org/terrier-desktop/blob/master/share/stopword-list.txt
 4. Downworthy : https://github.com/snipe/downworthy
 5. Dale Chall Easy word list: http://www.readabilityformulas.com/articles/dale-chall-readability-word-list.php
+
+## Similar topics:
+https://github.com/Pinakee15/Dealing-with-small-Dataset-by-pseudo-labeling
