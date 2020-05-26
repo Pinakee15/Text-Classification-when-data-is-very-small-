@@ -8,5 +8,5 @@
 4. Downworthy : https://github.com/snipe/downworthy
 5. Dale Chall Easy word list: http://www.readabilityformulas.com/articles/dale-chall-readability-word-list.php
 
-## Similar topics:
+## If you are interested in Similar topic check my another repo:
 https://github.com/Pinakee15/Dealing-with-small-Dataset-by-pseudo-labeling
